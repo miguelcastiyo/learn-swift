@@ -70,5 +70,5 @@ let compChoice = getComputerChoice()
 
 // Output phase
 print("You threw \(userChoice)...")
-print("The computer threw \(compChoice).. ")
+print("The computer threw \(compChoice)...")
 print(determineWinner(userChoice, compChoice))
